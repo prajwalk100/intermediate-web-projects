@@ -28,22 +28,6 @@ Learned DOM element creation, appending, and event handling.
 
 Simple, interactive, and styled with CSS.
 
-📂 Folder Structure
-intermediate-web-projects/
-│── contact-form/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-│── responsive-layout/
-│   ├── index.html
-│   └── style.css
-│
-│── todo-list/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-
 🔧 Technologies Used
 
 HTML5
